@@ -10,6 +10,4 @@
 * Murilo de Paula Araujo.
 * Christopher de Oliveira Souza.
 
-### Contribuições
-- Contribuições e possíveis melhorias no meu ponto de vista são sempre bem-vindas.
 
