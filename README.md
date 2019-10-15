@@ -1,12 +1,15 @@
-# Tour Nos Estados Unidos
+# A Tour Across The United States
 
-## Projeto de uma simulação de agência de viagem para os Estados Unidos, utilizando Grafo, tendo como finalidade realizar o cálculo de melhor rota a partir de determinada cidade em menos de 1 minuto.
+## Project of a travel agency simulation for the United States using *Grafo*, with the purpose of calculating the best route from a given city in less than 1 minute.
 
-### Descrição do Projeto
-* Neste projeto uma agência de viagens deseja ajudar seus clientes a conhecer os Estados Unidos. Os clientes irão de avião até uma das cidades do mapa anexado neste repositório. A partir daí, alugarão um carro para conhecer todas as cidades do mapa e no final, devem voltar à cidade de partida, devolver o carro alugado e retornar ao Brasil. O objetivo do projeto é minimizar a distância que terão que dirigir, apresentando para os clientes o menor caminho e programa executar tudo isso em menos de 1 minuto. O arquivo do mapa apresentando todas as cidades e os seus caminhos está disponível no mapaEUA.jpg, no repositório.
-* A resolução deste problema pode ser aplicada em vários outros problemas de logística, como por exemplo, na entrega de produtos a vários clientes, saindo e retornando à empresa de distribuição, com a menor distância, tempo ou custo.
+### Project description
+* In this project a travel agency wants to help its clients get to know the United States. Customers will fly to one of the attached map cities in this repository. From there, they will rent a car to know all the cities on the map and in the end, they must return to the city of departure, return the rental car and return to Brazil. The goal of the project is to minimize the distance, passing through all cities of the map with the shortest path and program should execute and return the path in less than a minute. 
+* Solving this problem can be applied to a number of other logistics issues, such as delivering products to multiple customers, leaving and returning to the distribution company, at the shortest distance, time or cost. 
 
-### Desenvolvedores
+* Below we can see the map:
+![mapaEUA](https://user-images.githubusercontent.com/56207941/66871120-5ce36b00-ef79-11e9-8cfd-b42c23f2acce.jpg)
+
+### Developers
 * Murilo de Paula Araujo.
 * Christopher de Oliveira Souza.
 
