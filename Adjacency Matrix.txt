@@ -1,0 +1,200 @@
+matriz[1][0] =170; 
+matriz[5][0] =500;
+ 
+matriz[0][1] =170; 
+matriz[2][1] = 640;
+matriz[5][1] = 420;
+matriz[6][1] = 580;
+ 
+matriz[1][2] =640; 
+matriz[3][2] =380; 
+matriz[6][2] =300;
+ 
+matriz[2][3] =380;
+matriz[4][3] =120; 
+matriz[7][3] =270; 
+matriz[8][3] =160;
+ 
+matriz[3][4] =120; 
+matriz[8][4] =140; 
+matriz[12][4] =350;
+ 
+matriz[0][5] =500; 
+matriz[1][5] =420; 
+matriz[6][5] =420; 
+matriz[9][5] =670;
+ 
+matriz[1][6] =580; 
+matriz[2][6] =300; 
+matriz[5][6] =420; 
+matriz[8][6] =780; 
+matriz[10][6] =520;
+ 
+matriz[3][7] =270; 
+matriz[8][7] =290; 
+matriz[10][7] =420; 
+matriz[11][7] =470;
+ 
+matriz[3][8] =160; 
+matriz[4][8] =140; 
+matriz[6][8] =780; 
+matriz[7][8] =290; 
+matriz[11][8] =440;
+ 
+matriz[5][9] =670; 
+matriz[13][9] =930; 
+matriz[18][9] =1340;
+ 
+matriz[6][10] =520; 
+matriz[7][10] =420; 
+matriz[12][10] =660; 
+matriz[13][10] =530;
+ 
+matriz[7][11] =470; 
+matriz[8][11] =440; 
+matriz[12][11] =360;
+ 
+matriz[4][12] =350; 
+matriz[10][12] =660; 
+matriz[11][12] =360; 
+matriz[17][12] =550; 
+matriz[21][12] =1070; 
+matriz[22][12] =990;
+
+matriz[9][13] =930; 
+matriz[10][13] =530; 
+matriz[14][13] =120; 
+matriz[15][13] =160; 
+matriz[16][13] =170; 
+matriz[19][13] =540;
+ 
+matriz[13][14] =120; 
+matriz[16][14] =180; 
+matriz[21][14] =730;
+ 
+matriz[13][15] =160; 
+matriz[16][15] =80;
+ 
+matriz[13][16] =170; 
+matriz[14][16] =180; 
+matriz[15][16] =80;
+ 
+matriz[12][17] =350;
+ 
+matriz[9][18] =1340; 
+matriz[19][18] =380; 
+matriz[24][18] =340; 
+matriz[25][18] =410;
+ 
+matriz[13][19] =540; 
+matriz[18][19] =380; 
+matriz[20][19] =190; 
+matriz[25][19] =470;
+ 
+matriz[19][20] =190; 
+matriz[21][20] =550; 
+matriz[26][20] =250;
+ 
+matriz[12][21] =1070; 
+matriz[14][21] =730; 
+matriz[20][21] =550; 
+matriz[22][21] =280; 
+matriz[23][21] =250; 
+matriz[27][21] =320; 
+matriz[33][21] =790;
+ 
+matriz[12][22] =990; 
+matriz[21][22] =280; 
+matriz[23][22] =310;
+ 
+matriz[21][23] =250; 
+matriz[22][23] =310; 
+matriz[29][23] =530;
+ 
+matriz[18][24] =340; 
+matriz[25][24] =90;
+ 
+matriz[18][25] =410; 
+matriz[19][25] =470; 
+matriz[24][25] =90; 
+matriz[26][25] =300; 
+matriz[30][25] =280; 
+matriz[31][25] = 180;
+matriz[40][25] =700;
+ 
+matriz[20][26] =250; 
+matriz[25][26] =300; 
+matriz[27][26] =400; 
+matriz[28][26] =290; 
+matriz[31][26] =250;
+ 
+matriz[21][27] =320; 
+matriz[26][27] =400; 
+matriz[28][27] =140;
+ 
+matriz[26][28] = 290;
+matriz[27][28] =140; 
+matriz[32][28] =210; 
+matriz[33][28] =390;
+ 
+matriz[23][29] =530; 
+matriz[33][29] =470; 
+matriz[34][29] =640; 
+matriz[36][29] =860;
+ 
+matriz[25][30] =280; 
+matriz[37][30] =650; 
+matriz[39][30] =640; 
+matriz[40][30] =530;
+ 
+matriz[25][31] =180; 
+matriz[26][31] =250; 
+matriz[32][31] =290; 
+matriz[40][31] =590;
+ 
+matriz[28][32] =210; 
+matriz[31][32] =290; 
+matriz[33][32] =240; 
+matriz[41][32] =710;
+ 
+matriz[21][33] =790; 
+matriz[28][33] =390; 
+matriz[29][33] =470; 
+matriz[32][33] =240; 
+matriz[34][33] =440; 
+matriz[41][33] =560;
+ 
+matriz[29][34] =640; 
+matriz[33][34] =440; 
+matriz[35][34] =180; 
+matriz[36][34] =230;
+ 
+matriz[34][35] =180; 
+matriz[36][35] =30; 
+
+matriz[29][36] =860; 
+matriz[34][36] =230; 
+matriz[35][36] =30;
+ 
+matriz[30][37] =650; 
+matriz[38][37] =170; 
+matriz[39][37] =150;
+ 
+matriz[37][38] = 170;
+matriz[39][38] =210;
+ 
+matriz[30][39] =640; 
+matriz[37][39] =150; 
+matriz[38][39] =210;
+ 
+matriz[25][40] =700; 
+matriz[30][40] =530; 
+matriz[31][40] =590; 
+matriz[39][40] =240; 
+matriz[41][40] =200;
+ 
+matriz[32][41] =710; 
+matriz[33][41] =560; 
+matriz[40][41] =200;
+
+
