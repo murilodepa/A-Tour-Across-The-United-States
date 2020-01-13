@@ -5,11 +5,14 @@
 #include <netdb.h>
 #include <stdlib.h>
 #include <strings.h>
+#include <arpa/inet.h>
+#include "tipo.h"
 
 main()
 {
-	int sock, length;
+	int sock, length,tam,cont =1;
 	struct sockaddr_in name;
+	struct mensagem msg;
 	char buf[1024];
 
         /* Cria o socket de comunicacao */
@@ -38,9 +41,19 @@ main()
 	printf("Socket port #%d\n",ntohs(name.sin_port));
 
 	/* Le */
-	if (read(sock,buf,1024)<0)
-                perror("receiving datagram packet");
+	//if (read(sock,buf,1024)<0)
+        //        perror("receiving datagram packet");
+	while(1){
+	msg.contador++;
+	recvfrom(sock,(char*)&msg,sizeof msg,0,(struct sockaddr*)&name,&tam);
+	printf("%d,%d,%x \n",name.sin_port,name.sin_family,name.sin_addr.s_addr);
+	printf("IP: %s\n" ,inet_ntoa(name.sin_addr));
         printf("  %s\n", buf);
+	msg.contador=cont++;
+	printf("\n \n \n \n \n");
+
+	sendto(sock,(char*)&msg,sizeof msg,0,(struct sockaddr *)&name,sizeof name);
+	}
         close(sock);
         exit(0);
 }
